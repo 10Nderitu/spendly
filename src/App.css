@@ -1,4 +1,6 @@
+@import "tailwindcss";
+
 body {
-    padding: 0;
     margin: 5;
+    background-color: #ffffff;
 }
